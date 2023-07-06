@@ -262,7 +262,7 @@
                         <h1 class="navbar-brand-foot fs-4"><a href="https://homebaba.ca/brampton/arbor-west-community" target="_blank" class = "text-dark text-decoration-none">Arbor West </a></h1>
                     </p>
                     <span class=" justifyy ">
-                    We do not represent the builder. Information provided on this website is gathered from publicly available websites. The information might not be updated and could include inaccurate or outdated information such as location, pricing, availability, floor plans etc. To learn more about this condo please contact the builder directly. </span>
+                    We do not represent the builder. Information provided on this website is gathered from publicly available websites. The information might not be updated and could include inaccurate or outdated information such as location, pricing, availability, floor plans etc. To learn more about Arbor West Homes please contact the builder directly. </span>
                     <div class="list pt-md-5 pt-3 d-md-block d-none ">
                         <p class=" ">
                             Website designed by <a href="https://www.sixdesign.ca/ " target="_blank " class="text-dark text-decoration-none "><strong>SixDesign.</strong> </a>
