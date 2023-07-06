@@ -217,7 +217,7 @@
                     <div class="col-md-3 "></div>
                     <div class="col-md-6 px-md-5 ">
 
-                        <form action="/contactForm.php" method="POST">
+                        <form action="./contactForm.php" method="POST">
                             <div class="row ">
                                 <div class="mb-3 "><input type="text" placeholder="Name" name="name" id="name" class="fields" required></div>
 
