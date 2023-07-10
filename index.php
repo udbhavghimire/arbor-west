@@ -87,7 +87,9 @@
                             <li class="nav-item px-md-2">
                                 <a class="nav-link scrollto" href="#location">Location</a>
                             </li>
-
+                             <li class="nav-item px-md-2">
+                                <a class="nav-link scrollto" href="#faq">FAQ</a>
+                            </li>
 
                             <li class="nav-item px-md-2 d-none d-md-block">
                                 <a href="#contact" class="btn btn-outline-light btn-lg fss">
@@ -182,9 +184,12 @@
                     <span class="mx-1 pb-3">Arbor West - Location</span> </span>
                 </h2>
                 <span class="small-text text-center d-flex justify-content-center custom-underline pb-3">Bovaird Dr W & Mississauga Rd, Brampton.</span>
-                <div>
-                    <div class="bg-white p-1  d-flex justify-content-center ">
-                        <<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2886.0932701250504!2d-79.8296064!3d43.667030000000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882b149df88ce077%3A0xca68d71e9f15cfe0!2sMississauga%20Rd%20%26%20Bovaird%20Dr%20W%2C%20Brampton%2C%20ON%20L7A%200H5%2C%20Canada!5e0!3m2!1sen!2snp!4v1688632611297!5m2!1sen!2snp" width="900" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                <div class ="row">
+                    <div class="col">
+                        <img src="images/Arbor-West-Homes-Map-View-of-Project-Location-2-v3-full.jpg" class=" imghei" alt ="Arbor West Homes Map View of Project Location"> 
+                    </div>
+                    <div class="bg-white pt-3  pt-md-0 d-flex justify-content-center col ">
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2886.0932701250504!2d-79.8296064!3d43.667030000000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882b149df88ce077%3A0xca68d71e9f15cfe0!2sMississauga%20Rd%20%26%20Bovaird%20Dr%20W%2C%20Brampton%2C%20ON%20L7A%200H5%2C%20Canada!5e0!3m2!1sen!2snp!4v1688632611297!5m2!1sen!2snp" width="650" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                     </div>
                 </div>
             </div>
@@ -231,6 +236,46 @@ This location is in Brampton. Nearby parks include Mount Pleasant Village Square
                 </div>
                 <span class="small-text text-center d-flex justify-content-center custom-underline pb-3">Note : The exact location of the project may vary from the street view shown here</span>
             </div>
+        </div>
+    </section>
+
+    <section class="mt-md-5 py-md-5" id = "faq">
+        <div class="container mt-5" data-aos="fade-up" data-aos-duration="2000" data-aos-delay="50">
+        <h2 class="fw-bold fs-1 mb-0 text-center justify-content-center" data-aos="fade-up">
+                    <span class="mx-1 pb-5">FAQ Arbor West Homes</span> </span>
+                </h2>
+        <div class="accordion accordion-flush pt-4" id="accordionFlushExample">
+  <div class="accordion-item">
+    <h2 class="accordion-header " id="flush-headingOne">
+      <button class="accordion-button collapsed " type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
+      When is Arbor West sales Launch?
+      </button>
+    </h2>
+    <div id="flush-collapseOne" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
+      <div class="accordion-body">Arbor West is expected to be launched by Caivan Communities in September, 2023 </div>
+    </div>
+  </div>
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="flush-headingTwo">
+      <button class="accordion-button collapsed " type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
+      What makes Arbor West Attractive ?
+      </button>
+    </h2>
+    <div id="flush-collapseTwo" class="accordion-collapse collapse" aria-labelledby="flush-headingTwo" data-bs-parent="#accordionFlushExample">
+      <div class="accordion-body">Arbor West is Brampton's most anticipated Master-Planned Community that will include townhomes & Single Detached homes. Arbor West will be built in prime location of Brampton ( Major Intersection : Bovaird Drive & Mississauga Road ). Its close proximity to Mount Pleasent Go station and the big stores like Walmart, Restaurants, Banks, Day care center makes Arbor west one of the most desirable pre construction townhome & single project in Brampton. Introducing Arbor West, Brampton's most anticipated Master-Planned Neighbourhood, featuring Caivan's award-winning singles and towns.</div>
+    </div>
+  </div>
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="flush-headingThree">
+      <button class="accordion-button collapsed " type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThree" aria-expanded="false" aria-controls="flush-collapseThree">
+      Who is the builder of Arbor West Townhomes & Single Detached homes?
+      </button>
+    </h2>
+    <div id="flush-collapseThree" class="accordion-collapse collapse" aria-labelledby="flush-headingThree" data-bs-parent="#accordionFlushExample">
+      <div class="accordion-body">Arbor West is a project from Caivan Communities. Caivan Communities is a esteemed team of real estate builders and developers based in Ottawa. They have several real estate developments in their portfolio from stunning townhome communities, to single homes and modern condominium buildings.</div>
+    </div>
+  </div>
+</div>
         </div>
     </section>
 
