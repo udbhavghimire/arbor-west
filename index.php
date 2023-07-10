@@ -28,17 +28,25 @@
     <meta property="og:image" content="https://arborwesthome.ca/Arbor-West-Homes-Community.jpg"> 
     <meta property="og:site_name" content="Arbor West" />
 
-    <link rel="icon" type="image/x-icon" href="favicon.ico">
-    <link rel="icon" type="image/png" sizes="32x32" href="./favicon-32x32.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+   
+    <link rel="manifest" href="/site.webmanifest">
 
     <script type="application/ld+json">
-    {
-      "@context" : "https://schema.org",
-      "@type" : "WebSite",
-      "name" : "Arbor West",
-      "url" : "http://arborwesthome.ca/"
-    }
-  </script>
+{
+  "@context": "https://schema.org/",
+  "@type": "WebSite",
+  "name": "Arbor West",
+  "url": "https://arborwesthome.ca/",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "{search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
 </head>
 
 <body>
@@ -180,6 +188,33 @@
                     </div>
                 </div>
             </div>
+        </div>
+    </section>
+
+    <section>
+        <div class="container pt-md-5 pt-5" data-aos="fade-up" data-aos-duration="2000" data-aos-delay="50">
+        <div class="pt-md-5 pt-4"></div>
+        <h2 class="fw-bold fs-1 mb-0 text-center justify-content-center">
+                    <span class="mx-1 pb-3 d-flex justify-content-center align-items-center">Walk Score <img src="./images/person-walking.gif" class="walk-animation img-fluid"></span>
+        </h2>
+
+       <div class="d-flex justify-content-center p-1">
+        <div style="padding: 0; margin: 0; border: 0; outline: 0; width: 300px; border: 1px solid #999;"> <div style="border:0;outline:0;padding:0; margin: 11px 9px 0;"><h2 style="text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 0; margin: 0; border: 0; outline: 0; text-decoration: none; vertical-align: baseline; font-style: normal; background: none; text-align: left; font:15px/19px 'Arial Black', Gadget, sans-serif; font-weight: normal; color: #222;"> Bovaird Drive West </h2><h3 style="text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 0; margin: 0; border: 0; outline: 0; text-decoration: none; vertical-align: baseline; font-style: normal; background: none; text-align: left; font:12px/14px Verdana, Arial, Helvetica, sans-serif; font-weight: bold; color: #666; margin: 2px 0 4px 0;"> Car-Dependent </h3> <div style="padding: 0; margin: 0; border: 0; outline: 0; position: relative; width: 100%; padding-bottom: 30%"> <div style="padding: 0; margin: 0; border: 0; outline: 0; position: absolute; top: 0; bottom: 0; left: 0; right: 0;"> <a rel="nofollow" href="https://www.walkscore.com/score/Bovaird-Dr-W-?utm_source=badge&utm_medium=responsive&utm_campaign=badge"><!--[if lte IE 8]><img src="//pp.walk.sc/badge/walk/Bovaird-Dr-W-.png" style='border-radius: 0; box-shadow: none; outline: 0; color: transparent; margin: 0 0 0 2.000000%; float: left; padding: 0; width: 30.666667%; background: none; border: 0;'alt="Walk Score of Bovaird Drive West Brampton ON Canada"><![endif]--> <!--[if gt IE 8]><img src="//pp.walk.sc/badge/walk/Bovaird-Dr-W-.svg" style='border-radius: 0; box-shadow: none; outline: 0; color: transparent; margin: 0 0 0 2.000000%; float: left; padding: 0; width: 30.666667%; background: none; border: 0;'alt="Walk Score of Bovaird Drive West Brampton ON Canada"><![endif]--> <!--[if !IE]> <!-- --><img src="//pp.walk.sc/badge/walk/Bovaird-Dr-W-.svg" style='border-radius: 0; box-shadow: none; outline: 0; color: transparent; margin: 0 0 0 2.000000%; float: left; padding: 0; width: 30.666667%; background: none; border: 0;'alt="Walk Score of Bovaird Drive West Brampton ON Canada"><!-- <![endif]--><!--[if lte IE 8]><img src="//pp.walk.sc/badge/transit/Bovaird-Dr-W-.png" style='border-radius: 0; box-shadow: none; outline: 0; color: transparent; margin: 0 0 0 2.000000%; float: left; padding: 0; width: 30.666667%; background: none; border: 0;'alt="Transit Score of Bovaird Drive West Brampton ON Canada"><![endif]--> <!--[if gt IE 8]><img src="//pp.walk.sc/badge/transit/Bovaird-Dr-W-.svg" style='border-radius: 0; box-shadow: none; outline: 0; color: transparent; margin: 0 0 0 2.000000%; float: left; padding: 0; width: 30.666667%; background: none; border: 0;'alt="Transit Score of Bovaird Drive West Brampton ON Canada"><![endif]--> <!--[if !IE]> <!-- --><img src="//pp.walk.sc/badge/transit/Bovaird-Dr-W-.svg" style='border-radius: 0; box-shadow: none; outline: 0; color: transparent; margin: 0 0 0 2.000000%; float: left; padding: 0; width: 30.666667%; background: none; border: 0;'alt="Transit Score of Bovaird Drive West Brampton ON Canada"><!-- <![endif]--><!--[if lte IE 8]><img src="//pp.walk.sc/badge/bike/Bovaird-Dr-W-.png" style='border-radius: 0; box-shadow: none; outline: 0; color: transparent; margin: 0 0 0 2.000000%; float: left; padding: 0; width: 30.666667%; background: none; border: 0;'alt="Bike Score of Bovaird Drive West Brampton ON Canada"><![endif]--> <!--[if gt IE 8]><img src="//pp.walk.sc/badge/bike/Bovaird-Dr-W-.svg" style='border-radius: 0; box-shadow: none; outline: 0; color: transparent; margin: 0 0 0 2.000000%; float: left; padding: 0; width: 30.666667%; background: none; border: 0;'alt="Bike Score of Bovaird Drive West Brampton ON Canada"><![endif]--> <!--[if !IE]> <!-- --><img src="//pp.walk.sc/badge/bike/Bovaird-Dr-W-.svg" style='border-radius: 0; box-shadow: none; outline: 0; color: transparent; margin: 0 0 0 2.000000%; float: left; padding: 0; width: 30.666667%; background: none; border: 0;'alt="Bike Score of Bovaird Drive West Brampton ON Canada"><!-- <![endif]--></a></div> </div><p style="text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 0; margin: 0; border: 0; outline: 0; color: #999; font-size: 11px; font-family: Verdana, Arial, Helvetica, sans-serif; line-height: 13px; clear:both; padding: 8px 0;"><a rel="nofollow" style="text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 0; margin: 0; border: 0; outline: 0; text-decoration: none; vertical-align: baseline; font-style: normal; background: none; text-align: left; color: #999; font-size: 11px; font-family: Verdana, Arial, Helvetica, sans-serif; line-height: 13px;" target="_blank" href="https://www.walkscore.com/CA-ON/Brampton?utm_source=badge&utm_medium=responsive&utm_campaign=badge">Explore Brampton on Walk Score</a><img style="visibility: hidden;" width=1 height=1 src="https://www.redfin.com/rift?ev=external_web&p=walkscore&s=score_badge&a=impression" /> </p></div></div>
+       </div>
+        <div class="pt-4 ">
+        <span class="small-text text-center d-flex justify-content-center custom-underline pb-3 textt">(Arbor West Homes) 
+        Bovaird Dr W & Mississauga Rd has a Walk Score of 9 out of 100. This location is a Car-Dependent neighborhood so almost all errands require a car.
+
+Bovaird Dr W & Mississauga Rd is a 16 minute walk from the KI Kitchener at the Mount Pleasant GO stop.
+
+This location is in Brampton. Nearby parks include Mount Pleasant Village Square and Fletcher's Parkette.
+
+
+</span>
+
+        <span class="small-text  d-flex justify-content-center text-center"> *Disclaimer : Reference purpose only. Result based on walkscore might not be 100 percent accurate.</span>
+
+        </div>
         </div>
     </section>
 
