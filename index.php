@@ -92,7 +92,7 @@
                             </li>
 
                             <li class="nav-item px-md-2 d-none d-md-block">
-                                <a href="#contact" class="btn btn-outline-light btn-lg fss">
+                                <a href="#Contact" class="btn btn-outline-light btn-lg fss">
                                     Register Now
             </a>
                             </li>
@@ -107,9 +107,9 @@
         <div class="container">
             <div class=" hero-container" >
                 <div >
-                <h1 class="main-titlee pb-0  mb-0 mt-2 mt-md-0" data-aos="fade-up" data-aos-duration="2000" data-aos-delay="50">Arbor West<br>Brampton</span>
+                <h1 class="main-titlee pb-0  mb-0 mt-2 mt-md-0" data-aos="fade-up" data-aos-duration="2000" data-aos-delay="50">Arbor West</span>
                 </h1>
-                <p class=" headline-textt mt-0 pt-3 text-white" data-aos="fade-up" data-aos-duration="2000" data-aos-delay="50"> Featuring Caivan's award-winning singles and towns.</p>
+                <p class=" headline-textt mt-0 pt-3 text-white" data-aos="fade-up" data-aos-duration="2000" data-aos-delay="50">Coming to Brampton - Townhomes & Single Detached Homes <br> Launching in September 2023</p>
                 </div>
             </div>
         </div>
@@ -242,7 +242,7 @@ This location is in Brampton. Nearby parks include Mount Pleasant Village Square
     <section class="mt-md-5 py-md-5" id = "faq">
         <div class="container mt-5" data-aos="fade-up" data-aos-duration="2000" data-aos-delay="50">
         <h2 class="fw-bold fs-1 mb-0 text-center justify-content-center" data-aos="fade-up">
-                    <span class="mx-1 pb-5">FAQ Arbor West Homes</span> </span>
+                    <span class="mx-1 pb-5"> Arbor West FAQ </span> </span>
                 </h2>
         <div class="accordion accordion-flush pt-4" id="accordionFlushExample">
   <div class="accordion-item">
@@ -280,7 +280,7 @@ This location is in Brampton. Nearby parks include Mount Pleasant Village Square
     </section>
 
     <section>
-        <div class="pt-5 " id="contact">
+        <div class="pt-5 " id="Contact">
             <div class="pt-5 mt-5 " data-aos="fade-up" data-aos-duration="2000" data-aos-delay="50">
                 <div class="row mx-0 " >
                     <!-- <div class="text-center pt-3 ">

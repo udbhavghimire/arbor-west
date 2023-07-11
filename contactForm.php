@@ -20,7 +20,7 @@ $mail->SMTPSecure = 'tls'; // Enable TLS encryption, `ssl` also accepted
 $mail->Port = 587; // TCP port to connect to
 
 $mail->setFrom('info@arborwesthome.ca', $_POST['name']);
-$mail->addAddress('ghimireudbhav@gmail.com');
+$mail->addAddress('milan@homebaba.ca');
 
 $mail->addReplyTo($_POST['email']);
 $mail->isHTML(true);
