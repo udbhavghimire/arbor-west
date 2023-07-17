@@ -262,7 +262,7 @@ This location is in Brampton. Nearby parks include Mount Pleasant Village Square
                 <h2 class="fw-bold fs-1 mb-0 text-center justify-content-center" data-aos="fade-up">
                     <span class="mx-1 pb-3">Living the Dream in Mount Pleasant</span> </span>
                 </h2>
-                <span class="small-text text-center d-flex justify-content-center custom-underline  px-2">Discovering the Beauty of Mount Pleasant, Brampton ON: A Visual Journey</span>
+                <span class="small-text text-center d-flex justify-content-center custom-underline  px-2">Arbor West Home - Commuting to Mount Pleasant Go Station</span>
                 </div>
 
                 <div class ="d-flex justify-content-center align-items-center">
