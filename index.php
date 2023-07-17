@@ -242,7 +242,7 @@ This location is in Brampton. Nearby parks include Mount Pleasant Village Square
     <section data-aos="fade-up" >
         <div class="container pt-md-5 pt-5" id="location">
             <div class="pt-md-5 "></div>
-            <div class="py-5" data-aos="fade-up" data-aos-duration="2000" data-aos-delay="50">
+            <div class="pt-5" data-aos="fade-up" data-aos-duration="2000" data-aos-delay="50">
                 <h2 class="fw-bold fs-1 mb-0 text-center justify-content-center" data-aos="fade-up">
                     <span class="mx-1 pb-3">Discover The Community Near Arbor West Homes</span> </span>
                 </h2>
@@ -258,11 +258,11 @@ This location is in Brampton. Nearby parks include Mount Pleasant Village Square
     <section data-aos="fade-up" >
         <div class="container pt-md-5 pt-5" id="location">
             <div class="pt-md-5 "></div>
-            <div class="py-5" data-aos="fade-up" data-aos-duration="2000" data-aos-delay="50">
+            <div class="pt-5" data-aos="fade-up" data-aos-duration="2000" data-aos-delay="50">
                 <h2 class="fw-bold fs-1 mb-0 text-center justify-content-center" data-aos="fade-up">
-                    <span class="mx-1 pb-3">Living the Dream in Mount Pleasant</span> </span>
+                    <span class="mx-1 mb-0">Arbor West - Commuting to Mount Pleasant</span> </span>
                 </h2>
-                <span class="small-text text-center d-flex justify-content-center custom-underline  px-2">Arbor West Home - Commuting to Mount Pleasant Go Station</span>
+s                <span class="text-center d-flex justify-content-center mx-widthh pb-4 px-2">Arbor West homes are conveniently close to Mount Pleasant Go Station, allowing easy commuting within minutes by car. Parking is available for those who drive to the station.</span>
                 </div>
 
                 <div class ="d-flex justify-content-center align-items-center">
