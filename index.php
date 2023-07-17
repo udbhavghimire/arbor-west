@@ -19,7 +19,7 @@
     <title> Arbor West Homes - Brampton | Register Today</title>
 
     <meta name="title" content="Arbor West Homes - Brampton | Singles & Towns - Register Today">
-    <meta name="description" content="Arbor West by Caivan Communities is an upcoming pre construction singles & towns development in Bovaird Dr W & Mississauga Rd, Brampton. The community is set to launch in September 2023.">
+    <meta name="description" content="Arbor West by Caivan Communities is an upcoming pre construction singles & towns development in Bovaird Dr W & Mississauga Rd, Brampton.">
     <meta name="keywords" content="Arbor West Brampton , Arbor West, Arbor West Homes Brampton, Caivan Communities, Pre construction in brampton,  Singles and towns in Brampton, Pre consruction single and towns brampton">
     <meta name="robots" content="index, follow">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -56,7 +56,7 @@
         <nav class="navbar navbar-expand-lg fixed-top" id="navbar">
             <div class="container pt-2">
                 <a href="/" class="navbar-brand">
-                    <h1 class="navbar-brand">Arbor West</h1>
+                    <h2 class="navbar-brand">Arbor West</h2>
                 </a>
                 <a href="#Contact" class="btn btn-outline-light fss d-block d-md-none">
                                     Register Now
@@ -107,7 +107,7 @@
         <div class="container">
             <div class=" hero-container" >
                 <div >
-                <h1 class="main-titlee pb-0  mb-0 mt-2 mt-md-0" data-aos="fade-up" data-aos-duration="2000" data-aos-delay="50">Arbor West</span>
+                <h1 class="main-titlee pb-0  mb-0 mt-2 mt-md-0" data-aos="fade-up" data-aos-duration="2000" data-aos-delay="50">Arbor West Homes</span>
                 </h1>
                 <p class=" headline-textt mt-0 pt-3 text-white" data-aos="fade-up" data-aos-duration="2000" data-aos-delay="50">Coming to Brampton - Townhomes & Single Detached Homes <br> Launching in September 2023</p>
                 </div>
@@ -117,7 +117,7 @@
 
     <section class="mt-md-5 py-md-5" id = "about">
         <div class="container mt-5" data-aos="fade-up" data-aos-duration="2000" data-aos-delay="50">
-            <h1 class=" main-title pt-md-5 pb-5  fw-bold ps-3 ps-md-0 d-flex justify-content-center d-flex justify-content-center align-items-center text-center">About Arbor West</h1>
+            <h2 class=" main-title pt-md-5 pb-5  fw-bold ps-3 ps-md-0 d-flex justify-content-center d-flex justify-content-center align-items-center text-center">About Arbor West</h2>
             <p class=" pb-3 px-3 textt d-flex justify-content-center align-items-center">Arbor West in Brampton is an upcoming pre construction singles & towns development in Bovaird Dr W & Mississauga Rd, Brampton, ON by Caivan Communities. The community is set to launch in September 2023.
             <div class="list  textt  pt-2 px-3">
                                 <p class="mybot pb-md-0 pb-0 ">
@@ -244,7 +244,7 @@ This location is in Brampton. Nearby parks include Mount Pleasant Village Square
             <div class="pt-md-5 "></div>
             <div class="py-5" data-aos="fade-up" data-aos-duration="2000" data-aos-delay="50">
                 <h2 class="fw-bold fs-1 mb-0 text-center justify-content-center" data-aos="fade-up">
-                    <span class="mx-1 pb-3">Discover The Community</span> </span>
+                    <span class="mx-1 pb-3">Discover The Community Near Arbor West Homes</span> </span>
                 </h2>
                 <span class="small-text text-center d-flex justify-content-center custom-underline pb-3 px-2">See the neighbourhood near Arbor West Homes</span>
                 </div>
@@ -253,6 +253,23 @@ This location is in Brampton. Nearby parks include Mount Pleasant Village Square
         </div>
     </section>
 
+
+    
+    <section data-aos="fade-up" >
+        <div class="container pt-md-5 pt-5" id="location">
+            <div class="pt-md-5 "></div>
+            <div class="py-5" data-aos="fade-up" data-aos-duration="2000" data-aos-delay="50">
+                <h2 class="fw-bold fs-1 mb-0 text-center justify-content-center" data-aos="fade-up">
+                    <span class="mx-1 pb-3">Living the Dream in Mount Pleasant</span> </span>
+                </h2>
+                <span class="small-text text-center d-flex justify-content-center custom-underline  px-2">Discovering the Beauty of Mount Pleasant, Brampton ON: A Visual Journey</span>
+                </div>
+
+                <div class ="d-flex justify-content-center align-items-center">
+                <iframe width="860" height="455" src="https://www.youtube.com/embed/0S8WbCyEy2k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                </div>
+        </div>
+    </section>
 
     <section class="mt-md-5 py-md-5" id = "faq">
         <div class="container mt-5" data-aos="fade-up" data-aos-duration="2000" data-aos-delay="50">
@@ -354,7 +371,7 @@ This location is in Brampton. Nearby parks include Mount Pleasant Village Square
             <div class="row row-cols-1 row-cols-sm-2 row-cols-md-5 pt-5 justify-content-between ">
                 <div class="col-md-5 my-3 fotwidth center-sm px-4 px-md-0 ">
                     <p class=" ">
-                        <h1 class="navbar-brand-foot fs-4"><a href="https://homebaba.ca/brampton/arbor-west-community" target="_blank" class = "text-dark text-decoration-none">Arbor West </a></h1>
+                        <h2 class="navbar-brand-foot fs-4"><a href="https://homebaba.ca/brampton/arbor-west-community" target="_blank" class = "text-dark text-decoration-none">Arbor West </a></h2>
                     </p>
                     <span class=" justifyy ">
                     We do not represent the builder. Information provided on this website is gathered from publicly available websites. The information might not be updated and could include inaccurate or outdated information such as location, pricing, availability, floor plans etc. To learn more about Arbor West Homes, please contact the builder directly. </span>
