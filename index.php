@@ -262,7 +262,7 @@ This location is in Brampton. Nearby parks include Mount Pleasant Village Square
                 <h2 class="fw-bold fs-1 mb-0 text-center justify-content-center" data-aos="fade-up">
                     <span class="mx-1 mb-0">Arbor West - Commuting to Mount Pleasant</span> </span>
                 </h2>
-s                <span class="text-center d-flex justify-content-center mx-widthh pb-4 px-2">Arbor West homes are conveniently close to Mount Pleasant Go Station, allowing easy commuting within minutes by car. Parking is available for those who drive to the station.</span>
+               <span class="text-center d-flex justify-content-center mx-widthh pb-4 px-2">Arbor West homes are conveniently close to Mount Pleasant Go Station, allowing easy commuting within minutes by car. Parking is available for those who drive to the station.</span>
                 </div>
 
                 <div class ="d-flex justify-content-center align-items-center">
@@ -340,6 +340,19 @@ s                <span class="text-center d-flex justify-content-center mx-width
                                 </div>
                                 <div class="col ">
                                     <div class="mb-3 "><input type="text" aria-describedby="emailHelp" placeholder="Email" name="email" id="email" class="fields" required></div>
+                                </div>
+                            </div>
+                            <div class="row me-0 row-cols-1">
+                                <div class="col">
+                                    <div class="mb-3">
+                                        <div class="form-floating">
+                                            <select class="form-select" name="realtor" id="realtor" aria-label="Floating label select example" required>
+                                                <option value="No">No</option>
+                                                <option value="Yes">Yes</option>
+                                            </select>
+                                            <label for="floatingSelect">Are you a realtor or working with one? </label>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                             <div class="row ">

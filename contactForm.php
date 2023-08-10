@@ -43,6 +43,10 @@ $message = '<html>
             <td>" . strip_tags($_POST['email']) . "</td>
         </tr>";
         $message .= "<tr>
+        <td><strong>Realtor or working with one?:</strong> </td>
+        <td>" . strip_tags($_POST['realtor']) . "</td>
+    </tr>";
+        $message .= "<tr>
             <td><strong>Message : </strong> </td>
             <td>" . strip_tags($_POST['message']) . "</td>
         </tr>";
