@@ -176,7 +176,7 @@ font-family: "Helvetica Neue" !important;
 #hero .hero-container {
     position: relative;
     display: flex;
-    height: 100vh;
+    height: 145vh;
     justify-content: center;
     flex-direction: column;
 }
@@ -323,6 +323,13 @@ font-family: "Helvetica Neue" !important;
         font-weight: 500 !important;
         line-height: 2rem;
         text-align: justify;
+    }
+    #hero .hero-container {
+        position: relative;
+        display: flex;
+        height: 152vh !important;
+        justify-content: center;
+        flex-direction: column;
     }
     #hero h1 {
         font-size: 44px;
