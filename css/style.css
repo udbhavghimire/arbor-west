@@ -147,11 +147,29 @@ font-family: "Helvetica Neue" !important;
     text-decoration-thickness: 2px;
 }
 
-#hero {
+
+/* #hero {
     width: 100%;
     height: 100vh;
     background: linear-gradient(rgba(74, 73, 73, 0.5), rgba(40, 37, 37, 0.2)), url("../images/arbor-west-neighbourhood.jpg") fixed;
     background-size: cover;
+    position: relative;
+}
+
+#hero .hero-container {
+    position: relative;
+    display: flex;
+    height: 125vh;
+    justify-content: center;
+    flex-direction: column;
+} */
+
+#hero {
+    width: 100%;
+    height: 100vh;
+    background: linear-gradient(rgba(74, 73, 73, 0.5), rgba(40, 37, 37, 0.2)), url("../images/arbor-west-neighbourhood.jpg");
+    background-size: cover;
+    background-position: center;
     position: relative;
 }
 
