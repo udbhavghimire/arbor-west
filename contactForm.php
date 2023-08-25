@@ -21,6 +21,7 @@ $mail->Port = 587; // TCP port to connect to
 
 $mail->setFrom('info@arborwesthome.ca', $_POST['name']);
 $mail->addAddress('milan@homebaba.ca');
+$mail->addAddress('samvalji.homebaba@gmail.com');
 
 $mail->addReplyTo($_POST['email']);
 $mail->isHTML(true);
