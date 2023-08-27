@@ -176,6 +176,92 @@
         </div>
     </section> -->
 
+    <section>
+        <div class="pt-2" data-aos="fade-up" data-aos-duration="2000" data-aos-delay="50">
+            <div class="container pt-3 " id="newcondos">
+                <div class="my-md-5 my-3"></div>
+                <div class="pt-md-5 pt-5">
+                    <h2 class="fw-bold fs-1  mx-1 ps-md-0 d-flex justify-content-center align-items-center brand-color text-center ">
+                     <span class ="bg-color">Arbor West Home Designs </span>
+                    </h2>
+                    <span class="small-text text-center d-flex justify-content-center custom-underline pb-3 mx-1">Arbor West community in Brampton offering Singles and Freehold Townhomes with unparalleled features and finishes. </span>
+                </div>
+                <div class="rounded-3">
+                    <div class="d-flex justify-content-between pb-3">
+                    <div class="row row-cols-1 row-cols-sm-2 row-cols-lg-3 justify-content-center g-4 mt-2">
+                    <div class="col">
+                        <div class="afte-proj">
+                            <img src="./images/31-collection.jpg" alt="Arbor West Home Designs" class="img-fluid rounded-mine imghei">
+                            <div class="img-text card">
+                                <p class="mb-2">31′ COLLECTION</p>
+                                <p class="mb-0 tet-s">2,824 to 3,158 SQ. FT.</p>
+                                <p class="mb-0 tet-s">Up to 6 Bedrooms | Up to 5.5 Bathrooms</p>
+                                <p class="mb-0 tet-s">2 Car Parking</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="afte-proj">
+                            <img src="./images/40-collection.jpg" alt="Arbor West Home Designs" class="img-fluid rounded-mine imghei">
+                            <div class="img-text card">
+                                <p class="mb-2">40′ COLLECTION</p>
+                                <p class="mb-0 tet-s">3,194 SQ. FT.</p>
+                                <p class="mb-0 tet-s">Up to 5 Bedrooms | Up to 4.5 Bathrooms</p>
+                                <p class="mb-0 tet-s">4 Car Parking</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div href="#" class="afte-proj">
+                            <img src="./images/42-collection.jpg" alt="Arbor West Home Designs" class="img-fluid rounded-mine imghei">
+                            <div class="img-text card">
+                                <p class="mb-2">42′ COLLECTION</p>
+                                <p class="mb-0 tet-s">3,581 to 4,186 SQ. FT.</p>
+                                <p class="mb-0 tet-s">Up to 7 Bedrooms | Up to 6 Bathrooms</p>
+                                <p class="mb-0 tet-s">4 Car Parking</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div href="#" class="afte-proj">
+                            <img src="./images/50-collection.jpg" alt="Arbor West Home Designs" class="img-fluid rounded-mine imghei">
+                            <div class="img-text card">
+                                <p class="mb-2">50′ COLLECTION</p>
+                                <p class="mb-0 tet-s">4,425 to 5,155 SQ. FT.</p>
+                                <p class="mb-0 tet-s">Up to 8 Bedrooms | Up to 7 Bathrooms</p>
+                                <p class="mb-0 tet-s">4 Car Parking</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div href="#" class="afte-proj">
+                            <img src="./images//arbor-towns.jpg" alt="Arbor West Home Designs" class="img-fluid rounded-mine imghei">
+                            <div class="img-text card">
+                                <p class="mb-2">ARBOR TOWNS</p>
+                                <p class="mb-0 tet-s">1,941 to 2,061 SQ. FT.</p>
+                                <p class="mb-0 tet-s">Up to 5 Bedrooms | Up to 4.5 Bathrooms</p>
+                                <p class="mb-0 tet-s">1 Car Parking</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div href="#" class="afte-proj">
+                            <img src="./images/rl-collection.jpg" alt="Arbor West Home Designs" class="img-fluid rounded-mine imghei">
+                            <div class="img-text card">
+                                <p class="mb-2">RL COLLECTION</p>
+                                <p class="mb-0 tet-s">2,148 to 2,635 SQ. FT.</p>
+                                <p class="mb-0 tet-s">Up to 6 Bedrooms | Up to 4.5 Bathrooms</p>
+                                <p class="mb-0 tet-s">2 Car Parking</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
     <section >
         <div class="container pt-md-5 pt-5" id="location">
             <div class="pt-md-5 pt-5"></div>

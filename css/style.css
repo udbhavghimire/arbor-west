@@ -4,6 +4,7 @@
 } */
 
 @import url('https://fonts.googleapis.com/css2?family=Ysabeau+Infant&display=swap');
+
 * {
     box-sizing: border-box;
     margin: 0;
@@ -22,21 +23,21 @@
 
 /* Track */
 
- ::-webkit-scrollbar-track {
+::-webkit-scrollbar-track {
     background: #f1f1f1;
 }
 
 
 /* Handle */
 
- ::-webkit-scrollbar-thumb {
+::-webkit-scrollbar-thumb {
     background: #a5a2a2;
 }
 
 
 /* Handle on hover */
 
- ::-webkit-scrollbar-thumb:hover {
+::-webkit-scrollbar-thumb:hover {
     background: #383737;
 }
 
@@ -112,7 +113,7 @@ font-family: "Helvetica Neue" !important;
 .nav-link:hover,
 .nav-link-active {
     color: #ffffff !important;
-    text-decoration: underline #ffffff!important;
+    text-decoration: underline #ffffff !important;
     text-underline-offset: 5px;
     text-decoration-thickness: 2px;
 }
@@ -227,6 +228,38 @@ font-family: "Helvetica Neue" !important;
     line-height: 2rem;
 }
 
+.card {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0, 0, 0, .125);
+    border-radius: 0.25rem;
+    padding: 0.6rem 0.5rem !important;
+    border: rgb(103, 103, 103) !important;
+    background-color: #ffffff !important;
+    box-shadow: 0 1rem 2rem hsla(180, 1%, 52%, .175) !important;
+}
+
+.tet-s {
+    font-size: 0.9rem;
+    font-weight: 500;
+    padding-bottom: 6px;
+}
+
+.img-text {
+    bottom: 5px;
+    background-color: #ffffff;
+    color: black;
+    z-index: 22;
+    font-weight: bold;
+    letter-spacing: 0.2px;
+    font-size: 1.3rem;
+}
+
 .gallerysvg {
     background: url("../images/Sprinkle.svg");
     background-size: contain;
@@ -234,10 +267,14 @@ font-family: "Helvetica Neue" !important;
 }
 
 .imghei {
-    height: 450px;
-    object-fit: cover;
-    width: 100%;
-    border-radius: 15px;
+    background: linear-gradient(110deg, #ececec 8%, #f5f5f5 18%, #ececec 33%) !important;
+    background-size: 200% 100% !important;
+    animation: shine 1.5s linear infinite;
+    height: 320px !important;
+    width: 100% !important;
+    object-fit: cover !important;
+    border-radius: 10px !important;
+    object-position: center !important;
 }
 
 .afte {
@@ -259,6 +296,27 @@ font-family: "Helvetica Neue" !important;
 }
 
 .afte:hover {
+    transform: scale(1.04);
+}
+
+.afte-proj {
+    position: relative;
+    display: block;
+    transition: all 0.3s;
+}
+
+.afte-proj::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+    z-index: 21;
+}
+
+.afte-proj:hover {
     transform: scale(1.04);
 }
 
@@ -318,12 +376,14 @@ font-family: "Helvetica Neue" !important;
         font-size: 2rem !important;
         margin-right: 0rem !important;
     }
+
     .headline-textt {
         font-size: 1.1rem !important;
         font-weight: 500 !important;
         line-height: 2rem;
         text-align: justify;
     }
+
     #hero .hero-container {
         position: relative;
         display: flex;
@@ -331,16 +391,19 @@ font-family: "Helvetica Neue" !important;
         justify-content: center;
         flex-direction: column;
     }
+
     #hero h1 {
         font-size: 44px;
         line-height: 46px;
     }
+
     .textt {
         font-size: 18px;
         max-width: 800px;
         margin-left: auto;
         margin-right: auto;
     }
+
     .center-sm {
         text-align: center;
     }
