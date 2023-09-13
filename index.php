@@ -303,7 +303,7 @@ This location is in Brampton. Nearby parks include Mount Pleasant Village Square
 
 </span>
 
-        <span class="small-text  d-flex justify-content-center text-center"> *Disclaimer : Reference purpose only. Result based on walkscore might not be 100 percent accurate.</span>
+        <span class="small-text  d-flex justify-content-center text-center"> *Disclaimer : Reference purpose only. Result based on walkscore might not be 100 percent accurate</span>
 
         </div>
         </div>
