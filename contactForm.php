@@ -14,12 +14,12 @@ $mail = new PHPMailer;
 $mail->isSMTP(); // Set mailer to use SMTP
 $mail->Host = 'mail.arborwesthome.ca'; // Specify main and backup SMTP servers
 $mail->SMTPAuth = true; // Enable SMTP authentication
-$mail->Username = 'info@arbourwesthome.ca'; // SMTP username
-$mail->Password = 'arbourwesthome'; // SMTP password
+$mail->Username = 'info@arborwesthome.ca'; // SMTP username
+$mail->Password = 'arborwesthome'; // SMTP password
 $mail->SMTPSecure = 'tls'; // Enable TLS encryption, `ssl` also accepted
 $mail->Port = 587; // TCP port to connect to
 
-$mail->setFrom('info@arbourwesthome.ca', $_POST['name']);
+$mail->setFrom('info@arborwesthome.ca', $_POST['name']);
 $mail->addAddress('contact@homebaba.ca');
 
 $mail->addReplyTo($_POST['email']);
