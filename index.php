@@ -542,10 +542,11 @@
                         available websites. The information might not be updated and could include inaccurate or
                         outdated information such as location, pricing, availability, floor plans etc. To learn more
                         about Arbor West Homes, please contact the builder directly. </span>
-                    <div class="list pt-md-5 pt-3 d-md-block d-none ">
+                    <div class="list pt-md-3 pt-3 d-md-block d-none ">
                         <p class=" fw-bold">
-                            Pre construction homes in Brampton <a href="https://condomonk.ca/brampton" target="_blank "
-                                class="text-dark text-decoration-none ">
+                            <a href="https://condomonk.ca/brampton " target="_blank "
+                                class="text-dark text-decoration-none fw-bold">
+                                <strong>Pre construction homes in Brampton</strong> </a>
                         </p>
 
                     </div>
@@ -580,8 +581,9 @@
 
             <div class="list mt-5 pt-5 d-md-none d-block center-sm px-4 ">
                 <p class=" fw-bold">
-                    Pre construction homes in Brampton <a href="https://condomonk.ca/brampton" target="_blank "
-                        class="text-dark text-decoration-none ">
+                    <a href="https://condomonk.ca/brampton " target="_blank "
+                        class="text-dark text-decoration-none fw-bold ">
+                        <strong>Pre construction homes in Brampton</strong> </a>
                 </p>
 
             </div>
