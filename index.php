@@ -534,7 +534,7 @@
             <div class="row row-cols-1 row-cols-sm-2 row-cols-md-5 pt-5 justify-content-between ">
                 <div class="col-md-5 my-3 fotwidth center-sm px-4 px-md-0 ">
                     <p class=" ">
-                    <h2 class="navbar-brand-foot fs-4"><a href="https://homebaba.ca/brampton/arbor-west-community"
+                    <h2 class="navbar-brand-foot fs-4"><a href="https://homebaba.ca/brampton/arbor-west-brampton"
                             target="_blank" class="text-dark text-decoration-none">Arbor West </a></h2>
                     </p>
                     <span class=" justifyy ">
@@ -543,9 +543,9 @@
                         outdated information such as location, pricing, availability, floor plans etc. To learn more
                         about Arbor West Homes, please contact the builder directly. </span>
                     <div class="list pt-md-5 pt-3 d-md-block d-none ">
-                        <p class=" ">
-                            Website designed by <a href="https://www.sixdesign.ca/ " target="_blank "
-                                class="text-dark text-decoration-none "><strong>SixDesign.</strong> </a>
+                        <p class=" fw-bold">
+                            Pre construction homes in Brampton <a href="https://condomonk.ca/brampton" target="_blank "
+                                class="text-dark text-decoration-none ">
                         </p>
 
                     </div>
@@ -579,9 +579,9 @@
             </div>
 
             <div class="list mt-5 pt-5 d-md-none d-block center-sm px-4 ">
-                <p class=" ">
-                    Website designed by <a href="https://www.sixdesign.ca/ " target="_blank "
-                        class="text-dark text-decoration-none "><strong>SixDesign.</strong> </a>
+                <p class=" fw-bold">
+                    Pre construction homes in Brampton <a href="https://condomonk.ca/brampton" target="_blank "
+                        class="text-dark text-decoration-none ">
                 </p>
 
             </div>
